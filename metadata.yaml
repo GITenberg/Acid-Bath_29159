@@ -1,0 +1,45 @@
+_repo: Acid-Bath_29159
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Vestal, Herman B.
+    aliases:
+    - Vestal, Herman Beeson
+    - Vestal, H. B. (Herman B.)
+    birthdate: 1916
+    deathdate: 2007
+    gutenberg_agent_id: '33400'
+    url: http://www.gutenberg.org/2009/agents/33400
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Garson, Bill
+    aliases:
+    - Garson, William J.
+    - Garson, Vaseleos
+    birthdate: 1917
+    gutenberg_agent_id: '33727'
+    url: http://www.gutenberg.org/2009/agents/33727
+description: The starways' Lone Watcher had expected some odd developments in his
+  singular, nerve-fraught job on the asteroid. But nothing like the weird twenty-one-day
+  liquid test devised by the invading Steel-Blues. Unlike the usual style of audio
+  book, this release has a music and effects soundtrack backing the narration giving
+  it a radio play feel rather than a straightforward reading. Garson's sci-fi adventure
+  story set in the outskirts of the Solar System.
+gutenberg_bookshelf: Science Fiction
+gutenberg_issued: '2009-06-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29159'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Short stories'
+- !lcsh 'Science fiction'
+title: Acid Bath
+url: http://www.gutenberg.org/ebooks/29159
